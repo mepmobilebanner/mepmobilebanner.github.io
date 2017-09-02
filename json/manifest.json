@@ -1,0 +1,20 @@
+{
+  "name": "贝宝商家: 发送账单",
+  "short_name": "贝宝商家",
+  "icons": [
+    {
+      "src": "https://www.paypalobjects.com/webstatic/merchant/nativeMobileBanner/launcher-icon-3x.png",
+      "sizes": "144x144",
+      "type": "image/png"
+    }
+  ],
+  "prefer_related_applications": true,
+  "related_applications": [
+    {
+      "platform": "play",
+      "id": "com.paypal.merchant.client"
+    }
+  ],
+  "start_url": "./index.html",
+  "display": "standalone"
+}
